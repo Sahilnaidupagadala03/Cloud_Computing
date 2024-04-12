@@ -19,11 +19,11 @@ Database: Efficiently stores recipe data and user information.
 
 # Services Used
 
-	AWS Lambda - AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers.
-  AWS EC2 - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
-	AWS SES - Amazon Simple Email Service (SES) is a cost-effective, flexible, and scalable email service that enables sending mail from within any application.
-	AWS RDS - Amazon Relational Database Service (Amazon RDS) is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud.
-	AWS S3 - Amazon S3 is a scalable object storage service that allows you to store and retrieve any amount of data from anywhere on the web.
-	AWS API Gateway - AWS API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+AWS Lambda - AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers.
+AWS EC2 - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
+AWS SES - Amazon Simple Email Service (SES) is a cost-effective, flexible, and scalable email service that enables sending mail from within any application.
+AWS RDS - Amazon Relational Database Service (Amazon RDS) is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud.
+AWS S3 - Amazon S3 is a scalable object storage service that allows you to store and retrieve any amount of data from anywhere on the web.
+AWS API Gateway - AWS API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
 
